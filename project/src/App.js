@@ -7,8 +7,6 @@ function App() {
    <>
    <h1>karthiii</h1>
    <h2>achaa sare sare lee voyy</h2>
-    <h4>teek hai bhaie </h4>
-    <p>hey karthik good progress man </p>
   </>
   );
 }
